@@ -59,13 +59,8 @@ use_colour = True
 # A login is neccessary to get the tokens needed to vote
 # If you feel it is secure to do so, put it here, otherwise 
 # you will be prompted to input this information at runtime.
-# For the SL PlayGround: the order in which you need to
-# input data is
-# - your email you used to sign up for SL
-# - your password
-# - the profile ID of the beneficiary of the storm
-email = "joshua_sl@posteo.de"
-password = "dtHhKA88"
+email = ""
+password = ""
 user_id = ""
 #
 #
