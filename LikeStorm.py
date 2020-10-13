@@ -37,8 +37,6 @@
 # Please be sure to read through the configuration to understand how to
 # use this program. 
 #
-# Thank you,
-#   - Ghost
 #######################################
 
 import requests
