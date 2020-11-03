@@ -126,6 +126,7 @@ def login_send(email, password):
             "Accept-Language": "en-US,en;q=0.5",
             "Accept-Encoding": "gzip, deflate",
             "Content-Type": "application/json;charset=utf-8",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJ7XCJJbnN0YW5jZUlkXCI6MTI1MTk4LFwiVXNlcklkXCI6MCxcIk5pY2tuYW1lXCI6bnVsbCxcIkRldmljZUlkXCI6MzkwMjUwMjcsXCJDbGllbnRJZFwiOjExNDMsXCJMb2NhbGVJZFwiOjEsXCJBcHBWZXJzaW9uXCI6XCIwLjAuMC4wXCIsXCJJc1Byb1wiOmZhbHNlfSIsImp0aSI6ImY1NTdiNTFmLTkwZGYtNDIxNS04YTdiLTY3NDMxZmY3ODZmZiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IlB1YmxpYyIsIm5iZiI6MTYwNDQwODU0NSwiZXhwIjoxNjA0NDEyMTQ1LCJpc3MiOiJTb2xvTGVhcm4uU2VjdXJpdHkuQmVhcmVyIiwiYXVkIjoiU29sb0xlYXJuLlNlY3VyaXR5LkJlYXJlciJ9.y8S1l9_S7w3nNs4n4SNGaXOwxFA2hQRNAtIitSnIrCc",
             "Content-Length": "98",
             "Origin": "https://www.sololearn.com",
             "DNT": "1",
